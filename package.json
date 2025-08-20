@@ -18,7 +18,7 @@
         "react-dom": "18.3.1",
         "unique-names-generator": "^4.7.1",
         "framer-motion":"^12.23.12",
-        "lucid-react" :"^0.7.1"
+        "lucide-react" :"^0.7.1"
     },
     "devDependencies": {
         "@tailwindcss/postcss": "^4.0.15",
