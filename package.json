@@ -17,7 +17,7 @@
         "react": "18.3.1",
         "react-dom": "18.3.1",
         "unique-names-generator": "^4.7.1",
-        "frame-motion":"^10.23.12",
+        "framer-motion":"^10.23.12",
         "lucid-react" :"^0.7.1"
     },
     "devDependencies": {
